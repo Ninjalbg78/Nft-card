@@ -5,4 +5,4 @@ This is a solution to the Nft-card-Preview on Frontend Mentor. Frontend Mentor c
 #### Live solution:
 https://1nft-preview-card.netlify.app/
 #### Frontend Mentor Solution:
-
+https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub?share=true
